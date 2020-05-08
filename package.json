@@ -1,0 +1,23 @@
+{
+  "name": "passgen",
+  "version": "1.0.0",
+  "description": "Generate strong/random password !!",
+  "main": "passgenerator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tejas002/passGen.git"
+  },
+  "keywords": [
+    "password",
+    "generator"
+  ],
+  "author": "tejas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tejas002/passGen/issues"
+  },
+  "homepage": "https://github.com/tejas002/passGen#readme"
+}
